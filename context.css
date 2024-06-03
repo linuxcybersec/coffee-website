@@ -1,0 +1,161 @@
+
+
+
+.logo {
+    font-size: 20px;
+    
+    }
+    .img {
+      width:98%;
+    box-shadow:
+      rgba(22, 31, 39, 0.42) 0px 60px 123px -25px,
+      rgba(19, 26, 32, 0.08) 0px 35px 75px -35px;
+    border-radius: 28px;
+      border: none;
+      margin-top: 12px;
+    
+    
+    }
+    
+    .container {
+      position: relative;
+      text-align: center;
+      color: black;
+      font-family: Arial;
+      opacity: 0.6;
+      
+    }
+    
+    .food-pic {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size:45px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    
+    .text-pic {
+      position: absolute;
+      bottom: 8px;
+      left: 16px;
+      font-size:30px;
+    
+    }
+    
+    .img2 {
+      width:410px;
+      float:left;
+      padding: 15px;
+      border-radius:30px
+    }
+    .who-text {
+      text-align: center;
+      font-size: 30px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    
+    .text {
+      font-size:28px;
+      font-family: monospace;
+    }
+    
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: o;
+      overflow: hidden;
+      background-color: #333;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      color: white;
+      border-radius: 30px;
+    }
+    
+    li {
+      float: left;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    
+    .text-text {
+      color: white;
+      text-decoration: none;
+      padding: 14px 16px;
+    
+    
+    }
+    
+    .nav-container {
+      display: flex;
+      justify-content:end;
+      top: 0;
+      padding-bottom: 10px;
+      
+    
+    }
+    
+    
+    .dark-section {
+      background: linear-gradient(135deg ,#481717 , #584f45);
+     width: 98vw;
+     border-radius: 30px;
+     
+    
+      
+    
+    }
+    
+    .second-text {
+      color:white;
+      font-size: 40px;
+      padding-top: 30px;
+      padding-bottom: 30px;
+      text-align: left;
+      margin-left: 5%;
+      font-size: 30px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    }
+    
+    .second-pic {
+    width: 200px;
+    margin: 12px;
+    
+        transform:
+          perspective(75em)
+          rotateX(18deg);
+        box-shadow:
+          rgba(22, 31, 39, 0.42) 0px 60px 123px -25px,
+          rgba(19, 26, 32, 0.08) 0px 35px 75px -35px;
+        border-radius: 10px;
+        border: 1px solid;
+        border-color:
+          rgb(213, 220, 226)
+          rgb(213, 220, 226)
+          rgb(184, 194, 204);
+          border: none;
+      
+    }
+    
+    
+    
+    .box-container {
+      margin-left: 28px;
+      justify-content: space-between;
+    
+        
+    }
+    
+    .text-info {
+      margin-left: 15px; 
+    
+      
+      
+    }
+    
+    
+    
+    .video-box {
+      display: flex;
+    }
+      
+    
